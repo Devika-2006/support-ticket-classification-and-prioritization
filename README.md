@@ -48,7 +48,6 @@ The system helps organizations:
 - 📈 Results & Evaluation
 - 📊 Visualizations
 - 📁 Project Structure
-- 🚀 Installation
 - ▶️ Usage
 - 💼 Business Benefits
 - 🔮 Future Enhancements
@@ -368,57 +367,6 @@ SUPPORT-TICKET-CLASSIFICATION-PRIORITIZATION
 └── README.md
 ```
 
----
-
-## 🚀 INSTALLATION
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/yourusername/SUPPORT-TICKET-CLASSIFICATION-PRIORITIZATION.git
-```
-
-### 2️⃣ Navigate to Project Folder
-
-```bash
-cd SUPPORT-TICKET-CLASSIFICATION-PRIORITIZATION
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ USAGE
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Support_Ticket_Classification.ipynb
-```
-
-Run all cells to:
-
-✅ Load Dataset
-
-✅ Preprocess Data
-
-✅ Train Model
-
-✅ Evaluate Performance
-
-✅ Generate Predictions
-
----
 
 ## 💼 BUSINESS BENEFITS
 
