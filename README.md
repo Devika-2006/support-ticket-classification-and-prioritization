@@ -1,4 +1,4 @@
-Support Ticket Classification & Prioritization
+SUPPORT TICKET CLASSIFICATION & PRIORITIZATION
 
 ## Project Overview
 
