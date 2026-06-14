@@ -1,6 +1,4 @@
-# FUTURE_ML_02
-
-# FUTURE_ML_02 - Support Ticket Classification & Prioritization
+Support Ticket Classification & Prioritization
 
 ## Project Overview
 
@@ -193,6 +191,4 @@ This project demonstrates the practical application of Natural Language Processi
 
 Devika S
 
-Future Interns - Machine Learning Internship
-
-Project: FUTURE_ML_03 - Support Ticket Classification & Prioritization
+Project: Support Ticket Classification & Prioritization
